@@ -41,7 +41,7 @@
       { "id": "TensorFlow" },
       { "id": "Power BI" }
     ],
-    "links": [
+    "edges": [
       { "source": "Text to Image", "target": "Generative Models" },
       { "source": "Generative Models", "target": "OpenAI DALL-E" },
       { "source": "Generative Models", "target": "Stable Diffusion" },
